@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:13131/about/</loc>
+    <lastmod>2024-03-24T22:19:31+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:13131/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:13131/categories/</loc>
+  </url><url>
+    <loc>http://localhost:13131/seemswrong/</loc>
+  </url><url>
+    <loc>http://localhost:13131/series/</loc>
+  </url><url>
+    <loc>http://localhost:13131/tags/</loc>
+  </url>
+</urlset>

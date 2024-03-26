@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on SeemsWrong</title>
+    <link>http://localhost:13131/</link>
+    <description>Recent content in Home on SeemsWrong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Mar 2024 22:19:31 +0800</lastBuildDate>
+    <atom:link href="http://localhost:13131/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:13131/about/</link>
+      <pubDate>Sun, 24 Mar 2024 22:19:31 +0800</pubDate>
+      <guid>http://localhost:13131/about/</guid>
+      <description>About Me Hi, this is Jiaze. I’m an AI Alignment Research Engineer.&#xA;I am interested in AI Safety, not only in improving the capabilities of LLMs, but more importantly in how to align a human-level AI with humans.&#xA;In my daily life, I am quite interested in the views of the Stoicism and am currently reading related philosophical books.&#xA;Recently, what I have been doing is a combination of two things: on the one hand, I am using the views of Stoicism to improve myself; on the other hand, my main research focuses on how LLMs can improve their capabilities through self-improvment.</description>
+    </item>
+  </channel>
+</rss>
